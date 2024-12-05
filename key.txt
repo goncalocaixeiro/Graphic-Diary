@@ -1,0 +1,1 @@
+Acessar ao Manifest e alterar o android:value para android:value="AIzaSyBDaAu5ol-UEWfqnlrt879GoynfoyL0Yvs"
